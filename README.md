@@ -1,6 +1,9 @@
 # Sunrise sort
 
-![alt](assets/Animation.gif)
+![termina gif](assets/Animation.gif)
+
+## Simplified Flowchart
+![flowchart pic](assets/flowchart.svg)
 
 ### Credits<br>
 Sunrise sort's Author: [Alan Zucconi](https://www.alanzucconi.com/)<br>
